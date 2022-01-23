@@ -1,0 +1,5 @@
+/course-resources/*
+**/.DS_Store
+**/.idea/*
+.env
+venv
